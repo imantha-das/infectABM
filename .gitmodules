@@ -1,0 +1,3 @@
+[submodule "Pyfectious"]
+	path = Pyfectious
+	url = https://github.com/amehrjou/Pyfectious.git
